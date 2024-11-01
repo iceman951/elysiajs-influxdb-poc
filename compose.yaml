@@ -1,3 +1,4 @@
+name: "influxdb-start"
 services:
   influxdb:
     image: influxdb:2.7.10-alpine
